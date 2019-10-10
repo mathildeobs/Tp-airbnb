@@ -1,0 +1,10 @@
+.container h1{
+	color:#470938;
+	text-align: center;
+}
+.container{
+	/*margin:20px auto;*/
+}
+.container h2{
+	font-family:'Montserrat', sans-serif;
+}

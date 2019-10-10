@@ -1,0 +1,19 @@
+.texte{
+	margin-left:20px;
+}
+.card-info img{
+	width:200px;
+	color:#8CBC94;
+	padding-top:30px;
+	margin:auto;
+
+}
+.card-info{
+	box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+	margin-top:20px;
+	height:300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+

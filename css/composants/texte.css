@@ -1,0 +1,9 @@
+.texte{
+	width:300px;
+}
+.texte h2{
+	text-align: center;
+}
+.texte p{
+	padding: 0 15px;
+}

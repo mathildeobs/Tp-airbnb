@@ -1,0 +1,10 @@
+.photobox{
+	width:600px;
+	margin:0;
+	display: flex;
+	border:1px solid black;
+}
+.photobox img{
+	width:310px;
+
+}
